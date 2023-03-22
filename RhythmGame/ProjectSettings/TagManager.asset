@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - Note
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - BadCatcher
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - ParticleEffects
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 2030652031
+    locked: 0
+  - name: BGObjects
+    uniqueID: 4131643645
+    locked: 0
+  - name: NoteHitters
+    uniqueID: 818719521
+    locked: 0
+  - name: NoteHitEffects
+    uniqueID: 3266841353
+    locked: 0
+  - name: HitAlerts
+    uniqueID: 743487621
+    locked: 0
+  - name: Note
+    uniqueID: 2244357557
+    locked: 0
